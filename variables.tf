@@ -1,7 +1,7 @@
 variable "instace_name" {
   description = "Name assigned to every instance made"
   type        = string
-  default     = "Project3_Instance"
+  default     = "Project1_Instance"
 }
 
 #VPC
